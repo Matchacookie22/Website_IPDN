@@ -1,5 +1,13 @@
 # CodeIgniter 4 Application Starter
 
+Website Portal IPDN - Project UTS Pemrograman Web
+
+Nama: Ahmad Andrian Fitzal Rahman
+
+NIM: A11.2023.15152
+
+Tech Stack: CodeIgniter 4, Tailwind CSS, Alpine.js.
+
 ## What is CodeIgniter?
 
 CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
